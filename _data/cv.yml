@@ -65,12 +65,14 @@
   contents:
     - title: Turbulent flows
       items: 
-        - Description 1.
-        - Description 2.
+        - Free shear flows, jets 
+        - Homogeneous turbulence
+        - Experiments, RANS and LES
     - title: Geophysical flows
       items:
-        - Description 1.
-        - Description 2.
+        - Planetary jets, Rossby waves and hysteresis
+        - Inertia-gravity wave beams
+        - Experiments, visualisations and theory
 
 - title: Other Interests
   type: list
