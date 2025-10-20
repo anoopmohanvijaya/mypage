@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: publications and conferences
 description: Journal publications and conference presentations.
-years: [2021, 2022]
+years: [2021, 2022, 2023, 2024, 2023, 2019, 2016]
 nav: true
 nav_order: 1
 ---
