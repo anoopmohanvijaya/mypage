@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Parametrisations in a toy weather model using GAN (ML framework)
+description: sub-grid scale effects in Lorentz 96 model
 img:
 importance: 3
 category: fun

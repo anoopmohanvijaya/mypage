@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Jets and Rossby waves
+description: We create atmopsheric jets and Rossby waves in a rotating flow experiment.
 img: assets/img/12.jpg
 importance: 1
 category: work

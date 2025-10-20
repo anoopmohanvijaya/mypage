@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Inertia Gravity wave beams 
+description: with relevance to oceanic mixing
 img: assets/img/3.jpg
 importance: 2
 category: work

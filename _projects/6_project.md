@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Photo centering around objects
+description: Image processing using Yolov5 model
 img:
 importance: 4
 category: fun
