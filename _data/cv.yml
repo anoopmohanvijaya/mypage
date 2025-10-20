@@ -15,12 +15,12 @@
       institution: IIT Madras, Chennai IN
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Aerospace Engineering
+        - Aerodynamics Group
+        - title: Study of a Pure Coherent Shear Source (PCSS) Turbulence tunnel
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Turbulent fluid flows, Homogeneous turbulence
+            #- Sub-description 2.
     - title: Batchelors of Technology w. Honors
       institution: Government Engineering College Thrissur, IN
       year: 2012
