@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoc, <a href='#'>Geophysical Flows Lab</a>. IIT Madras, Chennai IN.
 
 profile:
   align: right
