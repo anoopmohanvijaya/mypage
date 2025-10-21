@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fluid dynamicist with a PhD in Aerospace Engineering from IIT Madras, India. My research areas are: fluid flows with turbulence, waves and instabilities, and flows that are of geophysical relevance. I have expertise in experimental methods as well as CFD. I have been leading a theoretical study on Rossby waves in laboratory jets as well. Recently, I have been exploring implementation of ML methods for weather models. 
+I am a **fluid dynamicist** with a PhD in Aerospace Engineering from IIT Madras, India. My research areas are: fluid flows with turbulence, waves and instabilities, and flows that are of geophysical relevance. I have expertise in experimental methods as well as CFD. I have been leading a theoretical study on Rossby waves in laboratory jets as well. Recently, I have been exploring implementation of ML methods for weather models. 
 
 I tell people that I am an explorer in quiet ways. I am a weekend footballer, fortnightly biker and an occasional hiker. I am a tea person, interested in tea-chats on politics, science, football, (motor)cycling and philosophy.  
