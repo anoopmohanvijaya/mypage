@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Current Research
-
 My research focuses on understanding complex fluid dynamical systems through a combination of high-fidelity experiments, numerical simulations, and data-driven modelling. Below are three ongoing research directions I am actively pursuing.
 
 ---
