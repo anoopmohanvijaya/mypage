@@ -1,34 +1,24 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Panchapakesan":
+  - firstname: ["N", "N.", "N. R.", "Panchapakesan"]
+    url: 
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mathur":
+  - firstname: ["Manikandan", "M.", "M.", "Mathur"]
+    url: https://sites.google.com/site/mathur2m/home
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Shevkar":
+  - firstname: ["Prafulla", "P.", "P.", "Shevkar"]
+    url: https://scholar.google.com/citations?user=PkfAQYwAAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Odier":
+  - firstname: ["Philippe", "P.", "P.", "Odier"]
+    url: https://perso.ens-lyon.fr/philippe.odier/Philippe/Welcome.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+    
+"Kannan":
+  - firstname: ["Buddha", "B. T.", "B. T.", "Kannan"]
+    url: https://www.srmist.edu.in/faculty/dr-kannan-b-t/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+    
+    
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
