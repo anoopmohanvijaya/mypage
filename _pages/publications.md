@@ -5,7 +5,7 @@ title: publications
 description: Publications and conferences.
 years: [2021, 2022, 2023, 2024, 2019, 2016]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
