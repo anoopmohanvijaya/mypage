@@ -203,6 +203,8 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
+inlcude:
+  - research/index.md
 exclude:
   - bin
   - Gemfile
