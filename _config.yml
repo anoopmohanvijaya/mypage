@@ -117,10 +117,10 @@ google_site_verification:  # your google-site-verification ID (Google Search Con
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 
-{% comment %}
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
+
 
 blog_name: my-scribbles # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
@@ -135,7 +135,6 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-{% endcomment %}
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
