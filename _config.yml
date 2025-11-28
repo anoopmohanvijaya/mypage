@@ -116,6 +116,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
+
+{% comment %}
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -132,6 +134,8 @@ pagination:
 related_blog_posts:
   enabled: true
   max_related: 5
+
+{% endcomment %}
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
