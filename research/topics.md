@@ -18,15 +18,13 @@ Internal waves in stratified fluids are important for understanding how energy m
 
 ## 2. **Bistable Jet Regimes in Rotating and Stratified Systems**
 
-This project investigates bistability, hysteresis, and regime switching in eastward jets produced in rotating fluids, like the jet streams at Earth's mid- latitudes .  
-By combining careful laboratory experiments and reduced-order models, we aim to understand how transitions occur between multiple equilibrium states.
+This project investigates bistability, hysteresis, and regime switching in eastward jets produced in rotating fluids, like the jet streams at Earth's mid- latitudes. By combining careful laboratory experiments and reduced-order models, we aim to understand how transitions occur between multiple equilibrium states.
 
 ---
 
 ## 3. **Machine-Learning-Enhanced Sub-Grid Scale (SGS) Parameterization**
 
-we develop machine-learning approaches to improve the representation of unresolved processes/effects in numerical models.   
-This effort focuses on constructing parametrizations using Generative Adversarial Netowrks (or GANs) by capturing the chaos present at smaller unresolved scales. Long term applications involve enhancement of weather forecast models.
+We develop machine-learning approaches to improve the representation of unresolved processes/effects in numerical models. This effort focuses on constructing parametrizations using Generative Adversarial Netowrks (or GANs) by capturing the chaos present at smaller unresolved scales. Long term applications involve enhancement of weather forecast models.
 
 ---
 
