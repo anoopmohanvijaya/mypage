@@ -28,7 +28,7 @@ We develop machine-learning approaches to improve the representation of unresolv
 
 ---
 
-## 3. **Is Homogeneous Isotropic Turbulence (HIT) possible in a lab experiment?**
+## 4. **Is Homogeneous Isotropic Turbulence (HIT) possible in a lab experiment?**
 
 Basically, the title. Something I pursued during my doctoral programme. The end result was that I designed a novel device that would approach the simplest academic turbulent flow (and no, it was not a grid turbulence experiment). The design could be scaed and refined for stricter realisations of HIT.
 
