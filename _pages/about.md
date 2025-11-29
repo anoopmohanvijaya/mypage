@@ -6,7 +6,7 @@ subtitle: Postdoc, <a href='#'>Geophysical Flows Lab</a>. IIT Madras.
 
 profile:
   align: right
-  image: amv_pic2.jpg
+  image: amv_pic3.jpg
   image_circular: false # crops the image to make it circular
   address: >
    <p>420 NAC2 IITM</p>
