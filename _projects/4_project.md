@@ -15,7 +15,7 @@ category: fun
 </div>
 
 
-I got this fixed gear bike from my man Ajo (a legend!). I was very curious to explore what the fixed gear culture was all about. And I get it now. Following are a few reasons why I think one should absolutely try a fixed gear bike (Ring me if you want to give mine a try):
+I got this fixed gear bike from Mr A. I was very curious to explore what the fixed gear culture was all about. And I get it now. Following are a few reasons why I think one should absolutely try a fixed gear bike (Ring me if you want to give mine a try):
 
 1. Low and moderate speeds in a fixed gear bike can be very engaging if you are a cycling enthusiast. High speeds and going brakeless for the adrinaline junkies.
 
