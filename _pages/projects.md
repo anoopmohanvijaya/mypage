@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of noteworthy projects.
+description: These are a few popular little projects, revisited through my own attempts to reproduce and experience the experiments myself.
 nav: true
 nav_order: 3
-display_categories: [experiment, sighting]
+display_categories: [work, fun]
 horizontal: false
 ---
 
