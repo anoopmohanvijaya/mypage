@@ -1,80 +1,31 @@
 ---
 layout: page
-title: Parametrisations in a toy weather model using GAN (ML framework)
-description: sub-grid scale effects in Lorentz 96 model
-img:
+title: Fixed gear adventures
+description: Learning a fakie
+img: assets/img/fixed_gear.jpg
 importance: 3
 category: fun
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div style="text-align: center;">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/fixed_gear.jpg" title="GAN training" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+        A macro-photograph of an X-hotwire probe mounted on the calibration rig. The two wires are welded (by me! #steadyhands ;) ) to their respective prongs and are 5 micrometer in diameter.
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+I got this fixed gear bike from my man Ajo (a legend!). I was very curious to explore what the fixed gear culture was all about. And I get it now. Following are a few reasons why I think one should absolutely try a fixed gear bike (Ring me if you want to give mine a try):
+
+1. Low and moderate speeds in a fixed gear bike can be very engaging if you are a cycling enthusiast. High speeds and going brakeless for the adrinaline junkies.
+
+2. Very much an exercise bike as you cannot coast. I have noticed that my pedalling became smoother (without jerks) over time.
+
+3. You have to pay a lot more attention to things in front of you, especially if you don't have the luxury of brakes. Keeps you engaged and on your toes.
+
+4. Comes with a bag of easy tricks. Learning some basic things like track stance is always going to improve how one manages their mass.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
