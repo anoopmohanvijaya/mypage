@@ -12,9 +12,6 @@ category: fun
             {% include figure.html path="assets/img/fixed_gear.jpg" title="GAN training" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <div class="caption">
-        A macro-photograph of an X-hotwire probe mounted on the calibration rig. The two wires are welded (by me! #steadyhands ;) ) to their respective prongs and are 5 micrometer in diameter.
-    </div>
 </div>
 
 
