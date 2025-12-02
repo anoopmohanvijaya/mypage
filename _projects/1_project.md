@@ -2,7 +2,7 @@
 layout: page
 title: Visualizations in Rotating Frame
 description: We create interesting flow patterns in a rotating fluid.
-img: assets/img/ml_gan_header.png
+img: assets/img/saturn_hex1.jpg
 importance: 1
 category: work
 ---

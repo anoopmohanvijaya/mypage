@@ -2,7 +2,7 @@
 layout: page
 title: How to train a machine.. 
 description: to guess numbers at random
-img: assets/img/3.jpg
+img: assets/img/ml_gan_header.png
 importance: 2
 category: work
 ---
