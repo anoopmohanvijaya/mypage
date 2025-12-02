@@ -19,6 +19,6 @@ It is like having two smart kids playing a game: one kid (the artist) tries to d
         </div>
     </div>
     <div class="caption">
-        The frequency distribution (or PDF) of the guessed real number samples over time during training.
+        The frequency distribution (or PDF) of the guessed real number samples over epochs of training.
     </div>
 </div>
