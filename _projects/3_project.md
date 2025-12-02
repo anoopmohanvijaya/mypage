@@ -12,10 +12,10 @@ Something that came out of necessity and lack of funds to purchase/borrow a comm
 <div style="text-align: center;">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/ml_gan.gif" title="GAN training" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/hotwire_1.jpg" title="GAN training" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="caption">
-        A hotwire probe mounted on the calibration rig.
+        A macro-photograph of an X-hotwire probe mounted on the calibration rig. The two wires are welded (by me! #steadyhands ;) ) to their respective prongs and are 5 micrometer in diameter.
     </div>
 </div>
