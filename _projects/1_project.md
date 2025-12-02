@@ -9,7 +9,7 @@ category: work
 
 Rotating fluid here refers to a column of water that is being rotated at a constant angular speed. What we see are images from a camera that is rotating along with the fluid. This is similar to standing on Earth or the view from a geo-stationary satellite. You are in a rotating frame because Earth rotates or satellite follows earth's rotation.
 
-Forcing a current along the circumference creates these cyclic patterns that resemble polar jets of Jovian planets. Below is the famous hexagonal polar jet on Saturn.
+Forcing a current along the circumference creates these cyclic patterns that resemble polar jets of Jovian planets. The following photograph shows the famous hexagonal polar jet of Saturn.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
