@@ -21,7 +21,7 @@ Forcing a current along the circumference creates these cyclic patterns that res
 Here, we have our polygonal jet in our own mini-atmosphere.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rte_1.jpg" title="laboratory jet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rte_1.png" title="laboratory jet" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/saturn_hex.gif" title="saturn polar jet" class="img-fluid rounded z-depth-1" %}
