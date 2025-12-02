@@ -2,7 +2,7 @@
 layout: page
 title: Automated fast calibration
 description: of velocity probes
-img: assets/img/7.jpg
+img: assets/img/hotwire1.jpg
 importance: 3
 category: work
 ---
