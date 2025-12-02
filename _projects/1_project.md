@@ -24,7 +24,7 @@ Here, we have a polygonal jet (averaged image) in our own mini-atmosphere.
         {% include figure.html path="assets/img/rte_1.png" title="laboratory jet" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/saturn_hex.gif" title="saturn polar jet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/saturn_hex.gif" title="saturn polar jet. Source: https://science.nasa.gov/mission/cassini" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
